@@ -1,0 +1,278 @@
+[
+	{
+	  "region": "AFRICAN",
+	  "name": "Jollof Rice",
+	  "description": "A popular West African one-pot rice dish, rich in flavor and spices, commonly served at parties and gatherings.",
+	  "serves": 6,
+	  "prep_time": "20 minutes",
+	  "cook_time": "1 hour",
+	  "ingredients": {
+		"main": [
+		  { "item": "Long-grain parboiled rice", "quantity": "3 cups", "notes": "rinsed and drained" },
+		  { "item": "Vegetable oil", "quantity": "1/4 cup" },
+		  { "item": "Tomato paste", "quantity": "2 tablespoons" },
+		  { "item": "Fresh tomatoes", "quantity": "4 large", "notes": "blended" },
+		  { "item": "Red bell peppers", "quantity": "2", "notes": "blended" },
+		  { "item": "Onions", "quantity": "2 large", "notes": "1 blended, 1 sliced" },
+		  { "item": "Garlic cloves", "quantity": "2", "notes": "minced" },
+		  { "item": "Ginger", "quantity": "1 tablespoon", "notes": "minced or grated" },
+		  { "item": "Chicken stock", "quantity": "4 cups", "notes": "or water with stock cubes" },
+		  { "item": "Bay leaves", "quantity": "2" },
+		  { "item": "Thyme", "quantity": "1 teaspoon", "notes": "dried" },
+		  { "item": "Curry powder", "quantity": "1 teaspoon" },
+		  { "item": "Salt", "quantity": "to taste" },
+		  { "item": "Black pepper", "quantity": "to taste" },
+		  { "item": "Habanero pepper", "quantity": "1", "notes": "optional, for heat" },
+		  { "item": "Vegetables", "quantity": "optional", "notes": "e.g., peas, carrots (optional)" }
+		],
+		"accompaniments": [
+		  { "item": "Fried plantains" },
+		  { "item": "Grilled chicken or fish" },
+		  { "item": "Salad" }
+		]
+	  },
+	  "instructions": [
+		{
+		  "step": 1,
+		  "description": "Prepare the tomato base.",
+		  "details": [
+			"Blend the fresh tomatoes, red bell peppers, 1 onion, and habanero pepper into a smooth paste.",
+			"Heat vegetable oil in a large pot over medium heat.",
+			"Sauté the minced garlic, ginger, and sliced onion until fragrant."
+		  ]
+		},
+		{
+		  "step": 2,
+		  "description": "Cook the tomato sauce.",
+		  "details": [
+			"Add the tomato paste to the pot and cook for 2–3 minutes.",
+			"Stir in the blended tomato mixture, curry powder, thyme, and bay leaves.",
+			"Cook on medium heat, stirring occasionally, until the sauce thickens and the oil begins to separate (about 15–20 minutes)."
+		  ]
+		},
+		{
+		  "step": 3,
+		  "description": "Add stock and rice.",
+		  "details": [
+			"Pour in the chicken stock and season with salt and black pepper to taste.",
+			"Bring to a boil, then stir in the rinsed rice, ensuring it is evenly distributed."
+		  ]
+		},
+		{
+		  "step": 4,
+		  "description": "Cook the rice.",
+		  "details": [
+			"Reduce the heat to low, cover the pot with a tight-fitting lid or foil to trap steam.",
+			"Allow the rice to cook undisturbed for 20–30 minutes, checking occasionally to ensure it doesn’t burn.",
+			"If needed, add small amounts of water or stock and gently stir to avoid sticking."
+		  ]
+		},
+		{
+		  "step": 5,
+		  "description": "Add optional vegetables.",
+		  "details": [
+			"If using peas or carrots, add them to the pot when the rice is almost done.",
+			"Stir gently to combine and allow them to cook through."
+		  ]
+		},
+		{
+		  "step": 6,
+		  "description": "Serve.",
+		  "details": [
+			"Fluff the rice with a fork to separate the grains.",
+			"Serve hot with fried plantains, grilled chicken, fish, or salad."
+		  ]
+		}
+	  ]
+	},
+
+	{
+	  "region": "WESTERN_EUROPE",
+	  "name": "Stobhach Gaelach (Irish Stew)",
+	  "description": "A traditional Irish stew made with lamb, potatoes, and hearty vegetables.",
+	  "serves": 6,
+	  "prep_time": "20 minutes",
+	  "cook_time": "2-3 hours",
+	  "ingredients": {
+		"main": [
+		  { "item": "Lamb or mutton", "quantity": "800g", "notes": "cut into chunks, can use beef as an alternative" },
+		  { "item": "Potatoes", "quantity": "1kg", "notes": "peeled and cut into chunks" },
+		  { "item": "Carrots", "quantity": "3", "notes": "peeled and thickly sliced" },
+		  { "item": "Onion", "quantity": "1 large", "notes": "roughly chopped" },
+		  { "item": "Parsnips", "quantity": "2", "notes": "optional, peeled and sliced" },
+		  { "item": "Turnip", "quantity": "1 small", "notes": "optional, peeled and cubed" },
+		  { "item": "Bay leaves", "quantity": "2" },
+		  { "item": "Fresh thyme", "quantity": "2-3 sprigs", "notes": "or 1 teaspoon dried thyme" },
+		  { "item": "Beef or lamb stock", "quantity": "1.5 liters", "notes": "or water with stock cubes" },
+		  { "item": "Salt", "quantity": "to taste" },
+		  { "item": "Black pepper", "quantity": "to taste" },
+		  { "item": "Butter", "quantity": "1 tablespoon", "notes": "optional, for browning the meat" },
+		  { "item": "Fresh parsley", "quantity": "optional", "notes": "chopped, for garnish" }
+		]
+	  },
+	  "instructions": [
+		{
+		  "step": 1,
+		  "description": "Prepare the meat.",
+		  "details": [
+			"Trim excess fat from the lamb or mutton chunks.",
+			"Optional: Brown the meat in a large pot with butter for extra flavor."
+		  ]
+		},
+		{
+		  "step": 2,
+		  "description": "Layer the ingredients.",
+		  "details": [
+			"In a large pot, layer half of the potatoes on the bottom.",
+			"Add the meat on top, followed by the carrots, onions, parsnips, and turnips (if using).",
+			"Top with the remaining potatoes."
+		  ]
+		},
+		{
+		  "step": 3,
+		  "description": "Add herbs and stock.",
+		  "details": [
+			"Add bay leaves and thyme to the pot.",
+			"Pour in enough stock to just cover the ingredients."
+		  ]
+		},
+		{
+		  "step": 4,
+		  "description": "Cook the stew.",
+		  "details": [
+			"Bring the pot to a gentle boil over medium heat.",
+			"Reduce to a simmer, cover, and cook for 2–3 hours.",
+			"Stir occasionally and check that the potatoes and meat are tender."
+		  ]
+		},
+		{
+		  "step": 5,
+		  "description": "Season and finish.",
+		  "details": [
+			"Taste the stew and adjust seasoning with salt and black pepper.",
+			"Optional: Remove bay leaves and thyme sprigs before serving."
+		  ]
+		},
+		{
+		  "step": 6,
+		  "description": "Serve.",
+		  "details": [
+			"Ladle the stew into bowls.",
+			"Garnish with fresh parsley, if desired.",
+			"Serve hot with crusty bread or soda bread on the side."
+		  ]
+		}
+	  ]
+	},
+	
+	{
+	  "region": "SOUTH_AMERICAN",
+	  "name": "Feijoada",
+	  "description": "A hearty Brazilian black bean stew with pork and smoked meats.",
+	  "serves": 6,
+	  "prep_time": "30 minutes",
+	  "cook_time": "2-3 hours",
+	  "ingredients": {
+		"main": [
+		  { "item": "Dried black beans", "quantity": "500g", "notes": "or canned black beans, rinsed and drained" },
+		  { "item": "Pork ribs", "quantity": "300g", "notes": "cut into individual pieces" },
+		  { "item": "Smoked sausage", "quantity": "200g", "notes": "chorizo or kielbasa, sliced" },
+		  { "item": "Bacon", "quantity": "150g", "notes": "diced" },
+		  { "item": "Pork belly", "quantity": "200g", "notes": "optional" },
+		  { "item": "Onion", "quantity": "1 large", "notes": "finely chopped" },
+		  { "item": "Garlic", "quantity": "3 cloves", "notes": "minced" },
+		  { "item": "Bay leaves", "quantity": "2" },
+		  { "item": "Orange", "quantity": "1", "notes": "halved, peel on" },
+		  { "item": "Olive oil", "quantity": "1 tablespoon" },
+		  { "item": "Salt", "quantity": "to taste" },
+		  { "item": "Black pepper", "quantity": "to taste" },
+		  { "item": "Water", "quantity": "as needed", "notes": "or chicken broth" },
+		  { "item": "Fresh cilantro", "quantity": "optional", "notes": "for garnish" }
+		],
+		"accompaniments": [
+		  { "item": "Steamed white rice" },
+		  { "item": "Sautéed collard greens" },
+		  { "item": "Orange slices" },
+		  { "item": "Farofa", "notes": "toasted cassava flour" }
+		]
+	  },
+	  "instructions": [
+		{
+		  "step": 1,
+		  "description": "Prepare the black beans.",
+		  "details": [
+			"For dried beans: soak overnight in water, then drain and rinse before cooking.",
+			"For canned beans: rinse and drain."
+		  ]
+		},
+		{
+		  "step": 2,
+		  "description": "Cook the black beans.",
+		  "details": [
+			"Add beans, water (to cover by 2 inches), and bay leaves to a large pot.",
+			"Simmer on medium heat for 1–1.5 hours, or until tender."
+		  ]
+		},
+		{
+		  "step": 3,
+		  "description": "Prepare the meats.",
+		  "details": [
+			"In a skillet, heat olive oil and fry diced bacon and pork belly until golden and crispy. Set aside.",
+			"Brown sausage slices and pork ribs in the same skillet. Set aside."
+		  ]
+		},
+		{
+		  "step": 4,
+		  "description": "Cook the aromatics.",
+		  "details": [
+			"Sauté chopped onion and minced garlic in the skillet until softened and fragrant (about 3 minutes)."
+		  ]
+		},
+		{
+		  "step": 5,
+		  "description": "Combine ingredients.",
+		  "details": [
+			"Add bacon, pork belly, sausage, and ribs to the pot with beans.",
+			"Stir in onion and garlic mixture.",
+			"Add 1–2 cups of water or broth to cover the ingredients."
+		  ]
+		},
+		{
+		  "step": 6,
+		  "description": "Add orange and simmer.",
+		  "details": [
+			"Place halved orange (cut side down) into the pot.",
+			"Cover and simmer on low heat for 1–2 hours, stirring occasionally."
+		  ]
+		},
+		{
+		  "step": 7,
+		  "description": "Season and adjust.",
+		  "details": [
+			"Remove orange halves and bay leaves.",
+			"Taste and season with salt and black pepper as needed."
+		  ]
+		},
+		{
+		  "step": 8,
+		  "description": "Prepare accompaniments.",
+		  "details": [
+			"Cook white rice.",
+			"Sauté collard greens in olive oil with garlic and salt.",
+			"Slice oranges for serving.",
+			"Toast farofa (cassava flour) in a dry pan with butter until golden."
+		  ]
+		},
+		{
+		  "step": 9,
+		  "description": "Serve.",
+		  "details": [
+			"Ladle feijoada into bowls over rice.",
+			"Add collard greens, farofa, and orange slices as sides."
+		  ]
+		}
+	  ]
+	}
+
+
+]
