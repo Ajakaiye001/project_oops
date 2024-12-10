@@ -2,7 +2,7 @@ package recipe_app;
 
 import java.util.List;
 
-//to add recipe for region wide, we extend recipe further, then update the app
+
 public abstract class Recipe {
     private String name;
     private String description;
