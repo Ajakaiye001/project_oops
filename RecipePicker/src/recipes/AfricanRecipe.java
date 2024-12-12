@@ -2,25 +2,35 @@ package recipes;
 
 import java.util.List;
 
+import recipe_app.Cooker;
 import recipe_app.Ingredients;
 import recipe_app.Instruction;
 import recipe_app.Recipe;
 
+public class AfricanRecipe extends Recipe implements Cooker{
+    private Ingredients ingredients;
+    private List<Instruction> instructions;
 
-public class AfricanRecipe extends Recipe {
-	private Ingredients ingredients;
-	private List<Instruction> instructions;
-	
+    
+    @Override
+    protected Ingredients getIngredients() {
+        return ingredients;
+    }
+
+    @Override
+    public List<Instruction> getInstructions() {
+        return instructions;
+    }
+
+	@Override
+	public String fireWood(double pot_size) {
+		String pot = "Firewood pot size:"+pot_size;
+		System.out.println(pot);
+		return pot;
+	}
 	
 	@Override
-	protected Ingredients getIngredients() {
-		// TODO Auto-generated method stub
-		return ingredients;
+	public double electric() {
+		return Cooker.super.electric();
 	}
-	@Override
-	protected List<Instruction> getInstructions() {
-		// TODO Auto-generated method stub
-		return instructions;
-	}
-
 }
