@@ -17,6 +17,7 @@
 /build/
 /*.gradle
 /*.gradle.kts
+/.metadata/
 
 # IntelliJ IDEA (optional if using both IDEs)
 /.idea/
